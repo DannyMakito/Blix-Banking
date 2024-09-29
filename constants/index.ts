@@ -1,3 +1,5 @@
+//sidebar content and routes
+
 export const sidebarLinks = [
   {
     imgURL: "/icons/home.svg",
